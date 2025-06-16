@@ -13,13 +13,15 @@ then glow for a second. Afterwards, it will have its age constantly reset to kee
 from growing into an adult.
 
 If you later on decide that you would like your eternal child to grow into an adult mob,
-you can nametag it "big", and it will begin ageing as usual (it should take about 20 minutes
+you can nametag it "grow", and it will begin ageing as usual (it should take about 20 minutes
 to grow up, unassisted).
 
 
 ## Compatibility
 
 This datapack has been tested on versions:
+
+- [x] 1.21.6
 
 
 
