@@ -9,12 +9,17 @@ Download the [latest release](https://github.com/OpenBagTwo/ArrestedDevelopment/
 and download it to your world's "datapacks" folder.
 
 Once installed, grab a nametag and name any newly-bred mob "baby". That mob should
-then glow for a second. Afterwards, it will have its age constantly reset to keep it
-from growing into an adult.
+then glow for a second. After that, you're free to rename the mob, and it will have
+its age constantly reset to keep it from growing into an adult.
 
 If you later on decide that you would like your eternal child to grow into an adult mob,
 you can nametag it "grow", and it will begin ageing as usual (it should take about 20 minutes
-to grow up, unassisted).
+to grow up, unassisted). Again, once the mob stops glowing, you're free to give it a different
+name.
+
+### Uninstalling
+
+To uninstall the datapack, simply remove it from your world, and mobs will resume ageing normally.
 
 
 ## Compatibility
@@ -22,7 +27,10 @@ to grow up, unassisted).
 This datapack has been tested on versions:
 
 - [x] 1.21.6
-
+- [x] 1.21
+- [x] 1.20.6
+- [x] 1.20.4
+- [x] 1.16
 
 
 and should work on all versions in between.

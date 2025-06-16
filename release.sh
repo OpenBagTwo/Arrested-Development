@@ -6,5 +6,5 @@ pack_name="Arrested Development"
 
 
 echo Compressing $pack
-zip -rq release/"$pack_name $version".zip data LICENSE pack.mcmeta pack.png README.md
+zip -rq release/"$pack_name $version".zip data LICENSE pack.mcmeta pack.png README.md overlay*
 echo Created release/"$pack_name $version".zip
