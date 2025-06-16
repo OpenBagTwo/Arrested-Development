@@ -1,4 +1,4 @@
-# Arrested Development: Prevent Your Baby Mods From Growing Up
+# Arrested Development: Prevent Your Baby Mobs From Growing Up
 
 This is a "vanilla-plus" datapack which allows the player to
 prevent baby mobs from aging into adults.
