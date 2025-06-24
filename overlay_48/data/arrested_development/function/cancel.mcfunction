@@ -4,3 +4,4 @@
 
 effect give @s minecraft:glowing 3 0 true
 tag @s remove do_not_age
+data remove entity @s CustomName
