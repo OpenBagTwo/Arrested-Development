@@ -4,8 +4,9 @@ version=v$(date '+%y.%m.%d')
 mkdir -p release
 pack_name="Arrested Development"
 ## Support
-rm -rf overlay_48/*
-cp -pfr data/ overlay_48/
+rm -rf overlay_48
+mkdir overlay_48
+cp -pfr data overlay_48/
 ## Rename functions to function and advancements to advancement
 find overlay_48/ -name functions | sed 's/functions/function/' | xargs -I '{}' cp -r {}'s' {}
 find overlay_48/ -name functions | xargs -I '{}' rm -r {}
