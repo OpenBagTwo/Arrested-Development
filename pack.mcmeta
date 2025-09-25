@@ -1,6 +1,8 @@
 {
     "pack": {
         "pack_format": 5,
+        "min_format": 5,
+        "max_format": 9999,
         "supported_formats": {"min_inclusive": 5, "max_inclusive": 9999},
         "description": [{"text":"Keep Mobs Baby Forever","color":"blue"}]
 	},
@@ -11,7 +13,9 @@
 				"formats": {
 					"min_inclusive": 48,
 					"max_inclusive": 9999
-				}
+				},
+				"min_format": 48,
+                "max_format": 9999,
 			}
 		]
 	}
