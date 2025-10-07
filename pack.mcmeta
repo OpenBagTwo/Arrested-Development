@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 5,
-        "min_format": 5,
+        "pack_format": 15,
+        "min_format": 15,
         "max_format": 9999,
-        "supported_formats": {"min_inclusive": 5, "max_inclusive": 9999},
+        "supported_formats": {"min_inclusive": 15, "max_inclusive": 9999},
         "description": [{"text":"Keep Mobs Baby Forever","color":"blue"}]
 	},
 	"overlays": {
